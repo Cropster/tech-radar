@@ -37,7 +37,7 @@ fetch('./config.json').then(function(response) {
       { name: "ASSESS", color: "#c7ba00" },
       { name: "HOLD", color: "#e09b96" }
     ],
-    entries: entries
+    entries: data.entries
   });
 }).catch(function(err) {
   console.log('Error loading config.json', err);
