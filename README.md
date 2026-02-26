@@ -1,7 +1,7 @@
 # Motivation
 
-At [Zalando](http://zalando.de), we maintain a [public Tech
-Radar](http://zalando.github.io/tech-radar/) to help our engineering teams
+Like [Zalando](http://zalando.de), we at Cropster maintain a [public Tech
+Radar](https://github.com/runtastic/tech-radar/) to help our engineering teams
 align on technology choices. It is based on the [pioneering work
 by ThoughtWorks](https://www.thoughtworks.com/radar).
 
