@@ -3,7 +3,7 @@
   "entries": [
     {
       "quadrant": 3,
-      "ring": 1,
+      "ring": 0,
       "label": "Amazon Aurora MySQL",
       "active": true,
       "moved": 0
@@ -17,7 +17,7 @@
     },
     {
       "quadrant": 3,
-      "ring": 0,
+      "ring": 1,
       "label": "Amazon Dynamo DB",
       "active": true,
       "moved": 0
@@ -38,7 +38,7 @@
     },
     {
       "quadrant": 0,
-      "ring": 1,
+      "ring": 0,
       "label": "Java",
       "active": true,
       "moved": 0
@@ -58,7 +58,7 @@
       "moved": 0
     },
     {
-      "quadrant": 0,
+      "quadrant": 1,
       "ring": 3,
       "label": "OpenAPI",
       "active": true,
@@ -66,14 +66,14 @@
     },
     {
       "quadrant": 0,
-      "ring": 0,
+      "ring": 2,
       "label": "Kotlin",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 0,
-      "ring": 0,
+      "ring": 3,
       "label": "Groovy",
       "active": true,
       "moved": 0
