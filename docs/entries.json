@@ -69,14 +69,14 @@
       "ring": 2,
       "label": "Kotlin",
       "active": true,
-      "moved": 0
+      "moved": 1
     },
     {
       "quadrant": 0,
       "ring": 3,
       "label": "Groovy",
       "active": true,
-      "moved": 0
+      "moved": -1
     },
     {
       "quadrant": 0,
