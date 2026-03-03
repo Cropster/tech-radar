@@ -227,6 +227,13 @@
     },
     {
       "quadrant": 2,
+      "ring": 0,
+      "label": "Day.js",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
       "ring": 2,
       "label": "Turborepo",
       "active": true,
