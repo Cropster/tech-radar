@@ -60,6 +60,27 @@
     {
       "quadrant": 2,
       "ring": 0,
+      "label": "MUI X",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Gluon JavaFX",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Install4J",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
       "label": "Hibernate",
       "active": true,
       "moved": 0
@@ -388,8 +409,22 @@
     },
     {
       "quadrant": 1,
+      "ring": 3,
+      "label": "Balena",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
       "ring": 0,
       "label": "stylelint",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "DigiCert",
       "active": true,
       "moved": 0
     },
