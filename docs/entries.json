@@ -220,7 +220,7 @@
     },
     {
       "quadrant": 2,
-      "ring": 0,
+      "ring": 1,
       "label": "Selenium",
       "active": true,
       "moved": 0
