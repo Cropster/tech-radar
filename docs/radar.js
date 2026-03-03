@@ -25,7 +25,7 @@ function radar_visualization(config) {
 
   config.svg_id = config.svg || "radar";
   config.width = config.width || 1450;
-  config.height = config.height || 1200;
+  config.height = config.height || 1000;
   config.colors = ("colors" in config) ? config.colors : {
       background: "#fff",
       grid: '#dddde0',
