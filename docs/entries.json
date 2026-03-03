@@ -340,6 +340,20 @@
     {
       "quadrant": 1,
       "ring": 0,
+      "label": "Amazon IoT Core",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Amazon MQTT",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
       "label": "Terraform",
       "active": true,
       "moved": 0
