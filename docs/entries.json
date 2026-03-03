@@ -53,6 +53,13 @@
     {
       "quadrant": 2,
       "ring": 0,
+      "label": "Analytics Next (Segment)",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
       "label": "Spring Boot",
       "active": true,
       "moved": 0
