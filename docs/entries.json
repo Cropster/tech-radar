@@ -37,469 +37,469 @@
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "React",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 3,
       "label": "Ember.js",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Analytics Next (Segment)",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Spring Boot",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "MUI X",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Gluon JavaFX",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Install4J",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Hibernate",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "SLF4J",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Gradle",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 3,
       "label": "Maven",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Redisson",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 3,
       "label": "Crnk",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Flyway",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "JUnit5",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Mockito",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 1,
       "label": "ArchUnit",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Hikari Connection Pool",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 3,
       "label": "MariaDB JDBC Connector",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 1,
       "label": "Amazon Advanced JDBC Driver",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 1,
       "label": "Testcontainers",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Checkstyle",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 3,
       "label": "Swagger",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 2,
       "label": "Spring Integrations",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "SCSS",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Storybook",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 1,
       "label": "Cypress",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 1,
       "label": "Selenium",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Day.js",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 2,
       "label": "Turborepo",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 2,
       "label": "NX",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Vite",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 0,
       "label": "Vitest",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 3,
       "label": "D3",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 2,
       "label": "Recharts",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 2,
+      "quadrant": 1,
       "ring": 3,
       "label": "@wessberg/di-compiler",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "Amazon EC2",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 1,
       "label": "Amazon SQS Queue",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "Amazon Lambda",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 1,
       "label": "Amazon Kinesis",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "Docker",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "Kubernetes",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "CircleCI",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 1,
       "label": "Amazon API Gateway",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "Amazon IoT Core",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "Amazon MQTT",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "Terraform",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "Split.io",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "Bruno",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 1,
       "label": "Cursor",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "Github Copilot",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "Ory",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "Metabase",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 1,
       "label": "Redocly",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "DataDog",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "SonarQube",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "eslint",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 3,
       "label": "Balena",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "stylelint",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1,
+      "quadrant": 0,
       "ring": 0,
       "label": "DigiCert",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 0,
       "label": "Java",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 0,
       "label": "JavaScript",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 0,
       "label": "TypeScript",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 1,
       "label": "OpenAPI",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 2,
       "label": "Kotlin",
       "active": true,
       "moved": 1
     },
     {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 3,
       "label": "Groovy",
       "active": true,
       "moved": -1
     },
     {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 0,
       "label": "JSON:API",
       "active": true,
