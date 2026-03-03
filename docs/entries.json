@@ -1,5 +1,5 @@
 {
-  "date": "2026.02",
+  "date": "2026.03",
   "entries": [
     {
       "quadrant": 3,
@@ -250,6 +250,146 @@
       "quadrant": 2,
       "ring": 3,
       "label": "@wessberg/di-compiler",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "AWS EC2",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "AWS SQS Queue",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "AWS Lambda",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "AWS Kinesis",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Docker",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Kubernetes",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "CircleCI",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "AWS API Gateway",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Terraform",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Split.io",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Bruno",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Cursor",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Github Copilot",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Ory",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Metabase",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Redocly",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "DataDog",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "SonarQube",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "eslint",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "stylelint",
       "active": true,
       "moved": 0
     },
