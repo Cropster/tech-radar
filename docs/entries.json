@@ -46,7 +46,7 @@
     {
       "quadrant": 2,
       "ring": 3,
-      "label": "Ember",
+      "label": "Ember.js",
       "active": true,
       "moved": 0
     },
@@ -67,7 +67,7 @@
     {
       "quadrant": 2,
       "ring": 0,
-      "label": "SLF4",
+      "label": "SLF4J",
       "active": true,
       "moved": 0
     },
@@ -144,7 +144,7 @@
     {
       "quadrant": 2,
       "ring": 1,
-      "label": "AWS Advanced JDBC Driver",
+      "label": "Amazon Advanced JDBC Driver",
       "active": true,
       "moved": 0
     },
@@ -256,28 +256,28 @@
     {
       "quadrant": 1,
       "ring": 0,
-      "label": "AWS EC2",
+      "label": "Amazon EC2",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 1,
       "ring": 1,
-      "label": "AWS SQS Queue",
+      "label": "Amazon SQS Queue",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 1,
       "ring": 0,
-      "label": "AWS Lambda",
+      "label": "Amazon Lambda",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 1,
       "ring": 1,
-      "label": "AWS Kinesis",
+      "label": "Amazon Kinesis",
       "active": true,
       "moved": 0
     },
@@ -305,7 +305,7 @@
     {
       "quadrant": 1,
       "ring": 1,
-      "label": "AWS API Gateway",
+      "label": "Amazon API Gateway",
       "active": true,
       "moved": 0
     },
