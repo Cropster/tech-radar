@@ -37,6 +37,27 @@
       "moved": 0
     },
     {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Amazon Athena",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Amazon Glue Data Catalog",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Amazon Redshift",
+      "active": true,
+      "moved": 0
+    },
+    {
       "quadrant": 1,
       "ring": 0,
       "label": "React",
@@ -289,6 +310,34 @@
       "moved": 0
     },
     {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "TensorFlow",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Streamlit",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "dlt",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "dbt",
+      "active": true,
+      "moved": 0
+    },
+    {
       "quadrant": 0,
       "ring": 0,
       "label": "Amazon EC2",
@@ -464,6 +513,76 @@
       "moved": 0
     },
     {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "tf-serving",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Amazon Sagemaker",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "PowerBI",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Drivetrain.io",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Amazon Batch",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Amazon Step Functions",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Amazon Secrets Manager",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Amazon EventBridge",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "dbt Cloud",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "Fivetran",
+      "active": true,
+      "moved": 0
+    },
+    {
       "quadrant": 2,
       "ring": 0,
       "label": "Java",
@@ -509,6 +628,13 @@
       "quadrant": 2,
       "ring": 0,
       "label": "JSON:API",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Python",
       "active": true,
       "moved": 0
     }
